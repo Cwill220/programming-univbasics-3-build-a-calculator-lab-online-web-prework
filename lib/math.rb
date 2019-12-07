@@ -20,4 +20,5 @@ end
 
 def square_root(num)
   Math.sin(num)
+  return  num
 end
